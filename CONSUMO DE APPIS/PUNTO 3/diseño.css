@@ -1,0 +1,26 @@
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .pokemon-info {
+    margin-top: 20px;
+  }
+  
+  .pokemon-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .pokemon-image {
+    max-width: 200px;
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
